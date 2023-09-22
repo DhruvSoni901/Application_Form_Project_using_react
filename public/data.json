@@ -4,21 +4,21 @@
         "firstName":"John",
         "lastName":"Doe",
         "aptDate":"2022-11-09 13:30",
-        "aptNotes":"haan meri jaaaan"
+        "aptNotes":"Diagnosis"
     },
     {
         "id": 1,
         "firstName":"Jane",
         "lastName":"Doe",
         "aptDate":"2020-06-09 10:30",
-        "aptNotes":"haan meri jaaaan"
+        "aptNotes":"Dermat Appointment"
     },
     {
         "id": 2,
         "firstName":"John",
         "lastName":"Smith",
         "aptDate":"2022-07-11 12:00",
-        "aptNotes":"haan meri jaaaan"
+        "aptNotes":"check-up"
     }
         
 ]
