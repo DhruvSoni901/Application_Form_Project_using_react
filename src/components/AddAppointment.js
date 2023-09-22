@@ -23,9 +23,9 @@ const AddAppointment = ( {onSendAppointment,last_id}) =>{
             aptDate: formData.aptDate + ' ' + formData.aptTime,
             aptNotes: formData.aptNotes
         }
-        onSendAppointment(appointInfo); //send this info to the above object
-        setFormData(clearData); //and then clear the form for next entry
-        setToggleform(!toggleform); //and waapis collapse krado form ko
+        onSendAppointment(appointInfo); 
+        setFormData(clearData); 
+        setToggleform(!toggleform); 
 
     }
 
